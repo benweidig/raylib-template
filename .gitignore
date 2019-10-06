@@ -1,0 +1,17 @@
+out/
+
+*.d
+*.o
+*.ko
+*.obj
+*.elf
+*.ilk
+*.map
+*.exp
+*.gch
+*.pch
+*.dSYM/
+*.su
+*.idp
+*.pdb
+*.mod*
